@@ -1,0 +1,1799 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "6A445B00D39E35F16F336B73D30CE0399BA788E7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "CAB9A10176A642C368B35E4796022CF39C36765D",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "DFEE8D0296F34D1A40A6C85C63431552727C9704",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Cloth_B"
+			]
+		},
+		{
+			"ShaderMapHash": "2DA5F302FFF898405B098DB3516A977D1265EBA5",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "BB27ED03486A4887E226F8A427A223A11B7C0699",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_FX_HangingDust_01"
+			]
+		},
+		{
+			"ShaderMapHash": "105C3A04539B456C33A4DD64EADB8603EC9C1E3F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "A8F70A0507EDB7FA4D51AF7403497C690B6A5C9E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "02637905648D95611A07CB3243E4D0AF6CB910EB",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_01",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_02",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_03",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_04",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_05",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_06",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_Shop",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_Shop_02",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_Shop_03",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_Shop_04",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_Shop_05",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlassBuildings",
+				"/Game/Cyberpunk/Materials/Masters/Winglass/M_WinGlassBuildings"
+			]
+		},
+		{
+			"ShaderMapHash": "09AC210B29357228D2B787AFD5EADAFA899B58AD",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Glass_illuminated_Warm_01l1",
+				"/Game/Cyberpunk/Materials/Instances/MI_Glass_illuminated_Warm_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "F7C6400B97010BFA51DD1D9BC600650030B9F2D8",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Clay"
+			]
+		},
+		{
+			"ShaderMapHash": "7ABB040CC7B32330B9C86B07E5E1D065143C8685",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "6E6D3A0C86328077328B64CA7D7298F6E7B42980",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+				"/Game/Maps/OpenMap"
+			]
+		},
+		{
+			"ShaderMapHash": "6357BD0D036FB858B74782F92DBD6729641EB998",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "B17AEB0DA69C3F682170E3812C4F4D4859353E3A",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B2D350EBC5B4B0525B0E56D2F2E30A251C7AF7C",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "AF974A10D03995EB0870D5808975FE94E0C91F06",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_PP_UnsharpMask"
+			]
+		},
+		{
+			"ShaderMapHash": "8714B1139AF9DEA457D712D5CA412AED8128D929",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Concrete_03"
+			]
+		},
+		{
+			"ShaderMapHash": "203D9D16A1FEA628A039512368596EF718435452",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "8B1FA91928227DCA8F8129967975E1CB8BA229AB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F2243C1BE018EDE3EE6446B5222EB27A2497F610",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A15A9F1BB41BEFD232F7505AE3890E33CC307DDD",
+			"Assets": [
+				"/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
+				"/Game/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "9EAECA1D73886094E03827B8393E1BFDD5FDBD84",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "FBBE811E6FC93D092102508B03C0BDFCD7F2487C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "A89DCB1EB30757DE3E299662EC87CEB2563A19F1",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_TrashBag"
+			]
+		},
+		{
+			"ShaderMapHash": "70FD9D1FD2CDEFDB2CA37EAB4E78D721C92B9DEF",
+			"Assets": [
+				"/Game/Maps/OpenMap"
+			]
+		},
+		{
+			"ShaderMapHash": "9D444221E4692FBC8B600721215A6A9BCB4EA914",
+			"Assets": [
+				"/Game/Materials/VertexPaint"
+			]
+		},
+		{
+			"ShaderMapHash": "5EE77721E13FC39AFCE264C0BDE1DCE587A24561",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_Steel_06"
+			]
+		},
+		{
+			"ShaderMapHash": "5D42D8221FAD74BF2F508429A7DD21ED831D35A8",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "D6B38624CA84CDC2426D23DD17F6B1D55C5BA388",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "81A6E624F0DA106230A1F6DFFE42894BB0210EC2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "7F806726B3F2C3E1E3066122F8E090CD2D7983A1",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_Bottle"
+			]
+		},
+		{
+			"ShaderMapHash": "DFCC7B26788F7A779673572326F9C5C1F6A05CD8",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material",
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material_VT/M_MS_Default_Fuzz_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "AF1707275029A370DBFFB98266FDFE0B2A10B9FE",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "11836B27753BFDEE2D40694104462F9ABA0705AD",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "A8B8D327373116720036BC73762A31D9F4628BDD",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/MM_SteamSmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "CFD56F29C51F117F3327A96A7754C75B61F74C64",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Fluid/M_MeshEmitWater_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "A7DFA0292EB14001A56DC4D61CAC63421E05CA97",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "FA3F532E7D81EB39DD309801200DCA720FA1D8C3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "14999F2E11C49F9A4B4C0924808042A033FE94E0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "0F6D183174B6DCB6DF47CB1B89C70C7E20FB1B9B",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/MapTemplates/Sky/M_BlackBackground",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "179ECB31CC9E1A3F9988B501FBC194716AE1BF51",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "76B7CD3138022EDE25DE9C05A3CE445D04CD6B82",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "AC17AF32A89F070179A90A0DC61105FA19E72B7A",
+			"Assets": [
+				"/Game/Maps/OpenMap/_Generated_/091EA2ZMXI8DPN3FV65GJ3ANZ",
+				"/Game/Maps/OpenMap/_Generated_/1BXBMMH5D9I33KYVGPF4KHR95",
+				"/Game/Maps/OpenMap/_Generated_/1VDI67NQX29HFB3RSJY5GIG1X",
+				"/Game/Maps/OpenMap/_Generated_/21A5TEYA9S32NO6EYKM4ZNW7B",
+				"/Game/Maps/OpenMap/_Generated_/2F31U09DCTX8VNHOKRCD8U33N",
+				"/Game/Maps/OpenMap/_Generated_/2JNBZP7LQQQV8MOVV7F9J58W9",
+				"/Game/Maps/OpenMap/_Generated_/2K5LFKLG2URSRLLE62SAFDXXW",
+				"/Game/Maps/OpenMap/_Generated_/2QSVNIS2HMJ2MOBQRX5PD7JLG",
+				"/Game/Maps/OpenMap/_Generated_/3C1OVBKEHUKMT2LGLPXBV9AXR",
+				"/Game/Maps/OpenMap/_Generated_/3HK6H1BOVTNVUMLYHEH6W5IL1",
+				"/Game/Maps/OpenMap/_Generated_/3JZ94PX2XG2C3Q7A4K7E6UWPX",
+				"/Game/Maps/OpenMap/_Generated_/3NDJ4UHVFN7KVNFPVP9J5GV02",
+				"/Game/Maps/OpenMap/_Generated_/47RBBTG4C147PIP5S0E5G4GRR",
+				"/Game/Maps/OpenMap/_Generated_/4PO6KCAK3EYZJJSG4DVYAWYA6",
+				"/Game/Maps/OpenMap/_Generated_/4S5CCS41BKLHBWXNJ12GDCAMW",
+				"/Game/Maps/OpenMap/_Generated_/4SWEIRR2MRL3V1WPHU2A1S9AZ",
+				"/Game/Maps/OpenMap/_Generated_/4V35CG76KZNNK099BQ1TTVEB9",
+				"/Game/Maps/OpenMap/_Generated_/531TONF2URMW8LVKPLMDLRBKX",
+				"/Game/Maps/OpenMap/_Generated_/54ZQEWGL6KMQFATH7R11KP85L",
+				"/Game/Maps/OpenMap/_Generated_/5611C29LKNYYDWSQOND16M0IX",
+				"/Game/Maps/OpenMap/_Generated_/5MAPCQ77U8JOQZNZMUB2IY3C9",
+				"/Game/Maps/OpenMap/_Generated_/5TFMG6YPTAIR4LW6763XUNYLG",
+				"/Game/Maps/OpenMap/_Generated_/63UYYVZPY12J7PUPWU2PXW1RZ",
+				"/Game/Maps/OpenMap/_Generated_/671FBUJRLDIEXZ64CB6H7EIA5",
+				"/Game/Maps/OpenMap/_Generated_/68QHE2HCL7SWK2HEECJ12IUWS",
+				"/Game/Maps/OpenMap/_Generated_/68XDNHL17SOSRXZ983C9UN1HU",
+				"/Game/Maps/OpenMap/_Generated_/6A1ZUPHZYY71O9X12RE17345Q",
+				"/Game/Maps/OpenMap/_Generated_/6I0STLS6YCJ1RRF5STQF308QV",
+				"/Game/Maps/OpenMap/_Generated_/6UVDNAYC4249N41VEUS57JKMF",
+				"/Game/Maps/OpenMap/_Generated_/6ZIBIULQL405A6PS9P1A8M794",
+				"/Game/Maps/OpenMap/_Generated_/712DK3MVZ1J9T76EXR99QQY4G",
+				"/Game/Maps/OpenMap/_Generated_/71377JCNT5UW7FNUG25CZPJWW",
+				"/Game/Maps/OpenMap/_Generated_/77ORAEXU7UFQ29LDPBA4ZNGHQ",
+				"/Game/Maps/OpenMap/_Generated_/7D7E7VKBSUEHUGG0TGDVBRA3J",
+				"/Game/Maps/OpenMap/_Generated_/82C20TO4JEKP0PNK4NDPZFVSZ",
+				"/Game/Maps/OpenMap/_Generated_/82L1OPRYHTQ167R2YUWY19ETE",
+				"/Game/Maps/OpenMap/_Generated_/88O7V57HBTXHI9ZWMHFPBXTJH",
+				"/Game/Maps/OpenMap/_Generated_/8CF6Y3LWK1ZTBHRV19EGSLZ4O",
+				"/Game/Maps/OpenMap/_Generated_/8ZDL0BFBK5Y3NPKG5O1GCPJ9M",
+				"/Game/Maps/OpenMap/_Generated_/96IDVXMD6CB58G41E9JV6Y3JK",
+				"/Game/Maps/OpenMap/_Generated_/9A529L8WMBITPYQ174XB3SHL6",
+				"/Game/Maps/OpenMap/_Generated_/9CDF6JY3KOQSM4QKCZKWBT646",
+				"/Game/Maps/OpenMap/_Generated_/9K7C9AHAXJ9AGB07H87HU5X7U",
+				"/Game/Maps/OpenMap/_Generated_/A5SI26DHY5CRIR2OL6NMG8O2K",
+				"/Game/Maps/OpenMap/_Generated_/A6QO2TSUSZC2Q0TV7NLKLI0HU",
+				"/Game/Maps/OpenMap/_Generated_/AO4EEN0NTZ5XO4PRH1QSIDEHR",
+				"/Game/Maps/OpenMap/_Generated_/ARRQUAHJJHUMV2VA1CAWJYIQY",
+				"/Game/Maps/OpenMap/_Generated_/AS8OPHFJWVQ3CVMDYHBMQMICO",
+				"/Game/Maps/OpenMap/_Generated_/ATXB0DK44GH1NP4IH0O01PTBX",
+				"/Game/Maps/OpenMap/_Generated_/B1K5HR8E5OYAF21609NSLU9ID",
+				"/Game/Maps/OpenMap/_Generated_/B7XZ6AYURIVXUUCG8YL1TWBTU",
+				"/Game/Maps/OpenMap/_Generated_/BN6957IJ9A5IM34IX4BZS91C1",
+				"/Game/Maps/OpenMap/_Generated_/BVPQ8PUR5F1OAO85A9PUDBEKL",
+				"/Game/Maps/OpenMap/_Generated_/BZUKNMYMA7UE4AEHQV9SEFE2Q",
+				"/Game/Maps/OpenMap/_Generated_/C5G4R7Y76J490FSZ70IDNOCW6",
+				"/Game/Maps/OpenMap/_Generated_/CQSKF9IP5X54O2VT3D49XMW2U",
+				"/Game/Maps/OpenMap/_Generated_/CV2BBKIYTQ8F6F0RSMUP5AI4D",
+				"/Game/Maps/OpenMap/_Generated_/CVFB5NH7N4S0Y69WSOPC6353H",
+				"/Game/Maps/OpenMap/_Generated_/CWORFPLUZGMDKHA1QG8BIIX89",
+				"/Game/Maps/OpenMap/_Generated_/DDOF7SNL8E459EP57VDLDF8OT",
+				"/Game/Maps/OpenMap/_Generated_/DL3NOHRMGRN257LTZFGJ30YJ3",
+				"/Game/Maps/OpenMap/_Generated_/EP761Z6AVZ1CONQV21W6L1E8D",
+				"/Game/Maps/OpenMap/_Generated_/EPMZ2LX2XJ0F2ZLM4KWZQOK75",
+				"/Game/Maps/OpenMap/_Generated_/F018LR2HH7W5D5SR5VORZYZ4H"
+			]
+		},
+		{
+			"ShaderMapHash": "841BC3333128F9A390EC8884B9447713AEDEB6EB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "6D8D90347A253479B2BB31AF21EE2E4AE67E5F60",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "2342B734FD82208DC867C5133588F2F9B59BEFBF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "D2506B35F30761C3B7AC38D62160A05DFBF48752",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_LampLow",
+				"/Game/Cyberpunk/Materials/Instances/MI_LampSTreet_emit",
+				"/Game/Cyberpunk/Materials/Instances/MI_LampSTreet_Off",
+				"/Game/Cyberpunk/Materials/Instances/MI_Train_A"
+			]
+		},
+		{
+			"ShaderMapHash": "B643AA35E0B717AF222BFE83971405BF845EFC05",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "CA3F2936015D30C231664881AEB408834805C0F8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "DE374C371D959C663961357061764F74943E231A",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "76288C39FD9351A487EE63B7C85D6612068A9CB6",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Fluid/M_Water_Test_01"
+			]
+		},
+		{
+			"ShaderMapHash": "49F0143B8081BE19535FB26B86C456B7026FC113",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9E02CB3B622B7DC45A1F0474D3A403C61A622EA7",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "0450573EF9D2AB65168A8AA82FD98744F4F762E0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "C49B693E12F6712B53EE4F553B1321A63DB1E664",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage",
+				"/Game/Cyberpunk/Materials/Instances/MI_Poster",
+				"/Game/Cyberpunk/Materials/Instances/MI_Poster_v2"
+			]
+		},
+		{
+			"ShaderMapHash": "625BB43E6C4C77B004DF30D3C667EAFA9700873C",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "DBF0413FB911AFF461652F04EEEFAE54BF3F6FC1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "BA6C7C3F09187E15869E2F1939469B594D26AFE6",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Debris"
+			]
+		},
+		{
+			"ShaderMapHash": "4A467C400CA0E1DFDAFC58B61907AC0FEDD5D61D",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_EFX_Sparks_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F42881407C2440C042B34F76495C7E571BE38E45",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Steam/M_Smoke_MacroUV_LF_E_Pan"
+			]
+		},
+		{
+			"ShaderMapHash": "F7081042FC8A0EBA0914B183862C94D95BF1BDE0",
+			"Assets": [
+				"/Game/Man/Materials/M_MAn_Body",
+				"/Game/Man/Materials/M_Man_Cloth_Down_01",
+				"/Game/Man/Materials/M_Man_Cloth_Up_01"
+			]
+		},
+		{
+			"ShaderMapHash": "33161D44E9171BA196357A51BC61318B9264A8AD",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "91907944A98265356B04183AFC96AB62E5D13939",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "DB10CF4523773275FC253721377438B7D9FC4EAB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B80C1446769CAC2406DFD77B3246BADFC75358FB",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E68795482BBC786E93B3FB36BA146BCE6F09B828",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "96C76649744BBDD4495BC381E606314F6DDD3BB4",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "B2DD224CDB1FA7126A71E8DCF3E704AE6609F53D",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A527504C097BF6647405FBC4E8C76A0757EB0B0D",
+			"Assets": [
+				"/Game/Man/Materials/M_Man_Cloth_Down_02",
+				"/Game/Man/Materials/M_Man_Cloth_Down_03",
+				"/Game/Man/Materials/M_Man_Cloth_Up_02",
+				"/Game/Man/Materials/M_Man_Cloth_Up_03"
+			]
+		},
+		{
+			"ShaderMapHash": "FFE5424D02DE32063BA45BE7138B7C49CDA446E7",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "97202F4E36B11DABA00D5AD112A556E907BADA68",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Tarpaulin"
+			]
+		},
+		{
+			"ShaderMapHash": "B3386E4EF83A3355CCE862854092C2469DE977CD",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "C7707B4F6B49E3A2E0C3F350997F6B07C44C00CB",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_PlateDiamon"
+			]
+		},
+		{
+			"ShaderMapHash": "9A82AD4F5706394877831A4F473FCE586D7AB026",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7659335006AFA5D147DC2CC6BEB80A2599FFE6BD",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_DOor"
+			]
+		},
+		{
+			"ShaderMapHash": "2B48565104B8DDE9E26C07051A99C59BED8C56C8",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "68BF24520BF8AD815A1801D18CEB36F6669C6E18",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "613B585298B7B832E2E11EBFF59E7DF57D873FAA",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_LensFlare_02"
+			]
+		},
+		{
+			"ShaderMapHash": "83B73B554B345CD62D4E2CCBB5A01B10796345EA",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "AF274F5507C7A58C000F40EC551659A767AA7826",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "ACEB275AAD12D87C4A8D017823A18D0881D4461F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8421D55D436F3BF235F84B0E3464D500F26E67F8",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "D2FF265F67E656E465B5950D9CEF28C070EEB171",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Concrete_Wall_Wall_02"
+			]
+		},
+		{
+			"ShaderMapHash": "57D6925F1A81248255EA37694309A0716204C9D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "B4D4985F602BC0801CB6568E0DBD6D40F9310281",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "62AD14617CC6D205236AABA3197405FC3014A402",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Beam_Fog_02"
+			]
+		},
+		{
+			"ShaderMapHash": "675A1962A440D2A257EED963522796F0F74509B2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "23C53B62BBF25FC0DF55F6CC2E8BF31BCDC8E64B",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BC6CD363FA8E5D345362840F380C47B6E914FF43",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_Trash_base_01",
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_Trash_base_02"
+			]
+		},
+		{
+			"ShaderMapHash": "6FBC106687670C2B6ACED27B2CB683371DBFE317",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_PaintSteel_06"
+			]
+		},
+		{
+			"ShaderMapHash": "FA385F6627DD11A119A9E871A53F543D1810953F",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Water",
+				"/Game/Cyberpunk/Materials/Instances/MI_Water_V2"
+			]
+		},
+		{
+			"ShaderMapHash": "29268266EE0917D6DD0C804738D6ECBE4AD27130",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "953598680797E3FEE23C375278ED3692FF854B97",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Glass_illuminated_Warm_01l"
+			]
+		},
+		{
+			"ShaderMapHash": "FEEF9E683CA9AF313B6992E507C7DC541BD31E9C",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "DB6DF66CFCD7B3DA2C613B850807B6FA7D16A138",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "D9FE916D7C47537020147E289064A7978273B332",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_Coffe_Cap_Palstic"
+			]
+		},
+		{
+			"ShaderMapHash": "611DAD6DED3FDBFED6243F5CB0E60003726D9494",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "527EA66F775429EA48FF531AB3E96E7461FAE71C",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Glass_Material/MI_MS_Glass_Material_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "EA23E1706B46953F526C6070AB9D42F6776F89F6",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Coffe"
+			]
+		},
+		{
+			"ShaderMapHash": "EB1F2D7163ECBDF52F7E6E36995E408C8603515B",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_Steel_11",
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_Steel_01",
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_Steel_03"
+			]
+		},
+		{
+			"ShaderMapHash": "394A74713768CC219D2E143DEC7AABE71C5CB96C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A95A01735F0EB8FA03642CF1A3899A56FEF79935",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Maglev/Material/M_Maglev_MeshEmit"
+			]
+		},
+		{
+			"ShaderMapHash": "B850047307FF58CBA297703E0EDDEAFCCB4D4A88",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_China_Lantern_Matal"
+			]
+		},
+		{
+			"ShaderMapHash": "54FA46743077C4C98CE02287EFE3166EBA2E3598",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_Spark_Core_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "2191827404DA6F2620C7FDC372F4D4F7B6EAF878",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "F2FE0E7570CF490F1BE1AFD12FC78ED9197B2A60",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "DB533576CA81AB6977EE90EBEDE82224AA339E69",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_Flare_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "07B603778977AF0EDBA7ED160829652779386116",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "574C17774D0A6379557D7D030BA737B0489BC3DF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "B7A46E77646C9E2B8E971A85E5493F38E8E30F5A",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_Single_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "82071679B0C149F46AD5A101D72AF3B947D34D81",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "794B26798154546F720B66A06317CE6C4DDF2B6F",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Cond_A_Corpus",
+				"/Game/Cyberpunk/Materials/Instances/MI_Cond_B_Corpus",
+				"/Game/Cyberpunk/Materials/Instances/MI_Train_B",
+				"/Game/Cyberpunk/Materials/Instances/MI_TrimBridge",
+				"/Game/Cyberpunk/Materials/Masters/M_SampleProps"
+			]
+		},
+		{
+			"ShaderMapHash": "41D1E979797D87B4C2F4611C1CDEEA7A1D669032",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4E7B5B7AAEDA3471A4454E01430741A36233DACB",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "2630397B6B8C5D4D52752E3B2A46DB48E18E34F7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6A66537BC4583FB5B5CDBA7762C59E21C2CC2EE9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FEF57A7B46D54D924917778005A4B5FFEB5A5499",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material",
+				"/Game/MSPresets/M_MS_Default_Material_VT/M_MS_Default_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "92C7B77B747051AC9AE3A92E6940B43B729E49C4",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_Smoke_MacroUV_Subtle_Near"
+			]
+		},
+		{
+			"ShaderMapHash": "CF214C7C7CD9DA26ABAD3ADCB795DE8B9F6E1BEE",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "487D527C8AAF9675A90F69CD2C270FB81A85278F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "1103957CEBB45902D47FCCBC15F170976111E1B2",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "494EE87DECA287502693088DD5682392FC91763E",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "F547747FFDA47F2A25D84266FBC541271FF681ED",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Painted_Metal_Black",
+				"/Game/Cyberpunk/Materials/Masters/M_Painted_Metal_Rust_v2"
+			]
+		},
+		{
+			"ShaderMapHash": "D8BB568058FB1C3B6CD6F7C20E417133B6119C29",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Cable",
+				"/Game/Cyberpunk/Materials/Instances/MI_Plastic_Blue",
+				"/Game/Cyberpunk/Materials/Instances/MI_Plastic_Dark",
+				"/Game/Cyberpunk/Materials/Instances/MI_Wire_Plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "97C629818F54C73289B3F56365B43281130CC62D",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Steam/M_Smoke_MacroUV_Subtle_Emissive_Near",
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Steam/M_Smoke_MacroUV_Subtle_Emissive_Near_NoSep"
+			]
+		},
+		{
+			"ShaderMapHash": "B14BDE81A91E217BA90899D8198BF7A1B42D9518",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Concrete",
+				"/Game/Cyberpunk/Materials/Instances/MI_Wood",
+				"/Game/Cyberpunk/Materials/Masters/M_LayerdMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F6281083823887EF16225972E68D3DC972DA6D43",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "E455C785FB0B63D4F7CD89CFB2DE8ABF22E51EEC",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Waterfloor"
+			]
+		},
+		{
+			"ShaderMapHash": "18337D863A1C89B388460CC8A729775F03A37E91",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "DDBCE38719D2C10C4D30E9A35A0153411F79980C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B6E9F887427077F004790EDC77266422F710736D",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "CCC92888015FE7316FE96B97F998943D68357581",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D6A5BB8852F276069805C84B4E06568A568A68EF",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Plastic",
+				"/Game/Cyberpunk/Materials/Masters/M_PlasticProp"
+			]
+		},
+		{
+			"ShaderMapHash": "3D401D8927085B32F5F67247C007D839A6F5039C",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA24589C05447ACB09628656289254F5FE1E5C1",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "4799FB893313727505C84EF740E082E15B22F4C5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "B0021B8A3F6E51EC6B2088FF8A92DE404B6EA09A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "08C5AA8A8E4C8CAE8E671AC53FD242F24042F8CD",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_EV_Lightbeam_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "87083B8BBEED5463CAB48AA1F04CD828715AC3D7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "8C00A98C8468241E8E2413662F5F9F566B1D56D4",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "5E38D98CADC3F5BCF2E7216B4436E02DEA1D9E2F",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "3B4CDE8CC503A80060248671C2BF87CCC732AAC3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "5E611F8E305378C7A05D90BDF16545A63503C5CF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "EB05298EB1F16DDF3B1D898651A8FF466745BB06",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_SteelProp"
+			]
+		},
+		{
+			"ShaderMapHash": "73DFFF8F0ED1F4DB487BF10ECAE649865B086050",
+			"Assets": [
+				"/Engine/Engine_MI_Shaders/M_Shader_SimpleTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "15125D916FD8D2F58DCBEF81091C1EEA09DEDC2F",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_Steel_12_Boat"
+			]
+		},
+		{
+			"ShaderMapHash": "CBE28A91D737AC88285AC5C539BEE2AF8F407F62",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Glow/M_Billboard"
+			]
+		},
+		{
+			"ShaderMapHash": "939199919162D506E320C8C2099D7653C37ADF96",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Tileable"
+			]
+		},
+		{
+			"ShaderMapHash": "7EBD4292410C048BAEA21DC0771471C6C861D139",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Steam/M_Steam_test_02"
+			]
+		},
+		{
+			"ShaderMapHash": "647B11942AE66163753DECC68BD88FE124E54CA9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "B2089195D9F3F221A57E0670347F05165B1D6EB1",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AF400196C81EB9D34CDD236E6A50BCD4F9A6A934",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "11C13A97F3025ACA83ED184913448BBADED98EFF",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "FBAA8E98CE696DF73034A317F4F70FE2DB30C316",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Preview_RustMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "D51EBE9AF53B77B3E1484B56E08E2A693DC7BA72",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_LampSTreet"
+			]
+		},
+		{
+			"ShaderMapHash": "D509339B334072038C486E97A3DCD73401BDCD66",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "F2DAC09B70EA03E5AC3A42672213FC173D74611D",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "38F71D9D913D49F00362D4F5B6BB1429626AF592",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "17F1129FA736BD5D14DE5DC76F2C31EFF3A68F4B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "C697659F962FB94CF2572BAC1D8CD32D44E803B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6DA3E7A15E37189E271042C056213AB0A9FAC425",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "474CF8A457A371BDCA6627625FB895ADE6338137",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Preview_Steel_07"
+			]
+		},
+		{
+			"ShaderMapHash": "D4BF33A54E2CD10C48EBADE993B89579A1BF51E3",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Fluid/M_ParticleWater_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "AD463AA620030126A9A9C8FA60F2FAFEE8E6124D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "20A159A76549163CABEB3064A6C39310400866CC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "DB338DA871431A04B4CD6D4E9F88DC798F5B9A51",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05388AAA582E00699E0EDB5759F17BD8D554EC66",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Glass_illuminated"
+			]
+		},
+		{
+			"ShaderMapHash": "ECED35AB0971315ADDEF26C2B715BFBE107E4408",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "75DC49AB0AFA00C3ED587B4EF144EA130E191F60",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "EDB551AC3732272B2B0F6B93EBFF8BD6C569BCED",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_Coffee_cup"
+			]
+		},
+		{
+			"ShaderMapHash": "1672E0AC7E8DB4A5C62154273F1ACC028EE20863",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "73C651AD231ACF538C46C50D45551A04BFD7EFBE",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "811354ADABB416AD5F5439523DE1DB18E7264BCF",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Plate"
+			]
+		},
+		{
+			"ShaderMapHash": "C37841AE4F20A419548D898039F60E7CC1C7573E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "59DC45AEDBA1D4E80BCDC5BD856C0916FE87FBE6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "7B45A5AFF5358363F69EBC046DDF373E03C2A782",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "A1DA3CB08BF50396C704078484BDEDF6DEC708D6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B0A5F2B0013B68A975D132B91996680010A47321",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Trash/M_Paper_box"
+			]
+		},
+		{
+			"ShaderMapHash": "5C2BE5B16DE2A413298F270856CEC4C08733AA8C",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "D715F9B227FD7FDD4FF819DE133AA24D9A29B4A5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "47AF28B3C01ABBAF5949219F3B3C486B80A52AA3",
+			"Assets": [
+				"/Game/Materials/VertexPaint2"
+			]
+		},
+		{
+			"ShaderMapHash": "5C177CB39304322E2D3CBBB4C64F7993D6001553",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Painted_Metal_Black",
+				"/Game/Cyberpunk/Materials/Masters/M_Painted_Metal_Rust_v2"
+			]
+		},
+		{
+			"ShaderMapHash": "834DEAB3A906F6724A209E2B1CF9C556E4E1D5C8",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/Glow/M_Billboard_emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "204D37B4A939AB9A38289EC1107E7CBB3BD93635",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "C461BEB6E8940856382F97E08501E31624B0AACD",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Steam/M_Smoke_MacroUV_LF_Pan",
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Steam/M_Smoke_MacroUV_Subtle"
+			]
+		},
+		{
+			"ShaderMapHash": "F21A26B7FA70F8FD59D934D294711382ABFF0775",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A6B742B7E6B4185FCB9647DE6E6041EB822962EE",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "217A8CB79E15B6A00719E07D9BDCBBD790CF2ACA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "6566B3B7FD794B60C7F90A55B6A9D7484009BA4A",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material",
+				"/Game/MSPresets/M_MS_Default_Transmission_Material_VT/M_MS_Default_Transmission_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "CB8DDDB77299168DF17BF45F3EDB7871897F1380",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "C52E62BCE2D4981339483F6C62D66D02D288F766",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6F9F83BCEA0173343F5A05D7A5CB9201813F48C1",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "DB9BC4BC90B3113201A38712D6FA91A5CF302B64",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Concrete_02",
+				"/Game/Cyberpunk/Materials/Instances/MI_Concrete_04"
+			]
+		},
+		{
+			"ShaderMapHash": "BF6B50BDD76A29CF9F47A1024062C813F052E7E8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3C47ABBD9E127A4B00B82B524819B58FA5057DF4",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "26A7C6BDD858A5641C9157D11AAC29A842728425",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "533CD4BF0F6D15AE60F4E0A7021287155557F380",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "29A2D6BFA156CF8C6DAF1393307616D340DEA167",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Water/M_ParticleWater_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "F21058C037FDC05237CF4FB31856468E5A8584C6",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_GodRay_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "E32D2AC1F55C225BCBDAED54A0A2B16DFFB0FC54",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "41567BC15F75E7D119ADECEE79670422C2317F0D",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "40510CC2929096FBF02C9642B76FE0F2AE5B4076",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "325AB2C2D18385727DFBA2663B8B12787D8633AD",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/Fluid/M_SplashDisc_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "831E43C4A0CB27E877DE0F6718D4ADEECFDA24D1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "FC00A2C4BAF80339AAF2F569307CB7EF34E548EA",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "B57FB0C4DC6DEB806DF19B9538D8BC46990DED42",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "2E99EFC43B5B247B8B21E656D38CCFE74FCAE692",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_FlickerLight_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "A9E9B1C545235B8D43FA780BD3ED29FA1BD6D46F",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "6CA21FC9FD2F43ABF8C0578D7CF131485C80E599",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_House_07",
+				"/Game/Cyberpunk/Materials/Instances/WinGlass/MI_WinGlass_TRain"
+			]
+		},
+		{
+			"ShaderMapHash": "A39C6EC9C222AD4BC6D59169E7583A1B74A0E85B",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/Lighting/MI_GodRay_Animated",
+				"/Game/Cyberpunk/Materials/Instances/Lighting/MI_GodRay_Animated1"
+			]
+		},
+		{
+			"ShaderMapHash": "CB4CE4C90315072C1B286A78CFE26FAB64F46F55",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Boat"
+			]
+		},
+		{
+			"ShaderMapHash": "477545CA9AF147BC7C9EB361D1C022FD8891C0A5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "89B0ADCA5A36761E19922B76FEC725F6852E717A",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FFF6BACAE4FDD60A3738BEF64ECD9E39CF2B52C6",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Painted_Metal_Black",
+				"/Game/Cyberpunk/Materials/Masters/M_Painted_Metal_Rust_v2"
+			]
+		},
+		{
+			"ShaderMapHash": "3E8F2ACBB4D48C6515ADFE96A36D1B6CAB6D2CBF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "A988BACCA6B95F16F6AEDC16594D05F84F5CFDB9",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24D277CD7F65890CC198C1CF1EA4FE1AFB044566",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "03211DCE3C8D002FD07C653F2B1D6C2D2C5F5A8D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "D956E6CE6AC36F9DC5D37B53863E47E14CEFA698",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Plastic_Black",
+				"/Game/Cyberpunk/Materials/Instances/MI_Plastic_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "39CC06CFE968EB489A3EC90C5DAC57B6A552F8FA",
+			"Assets": [
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material",
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "914C7CCF1EA4A34F53923D3BDCEBC7BE0C1C2D61",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CFD436D06F5552E0E1D8EEA162E546B27481D00E",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "38DC8DD18736670794EF29E64F3600D718B31303",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "CF1782D287114C377F1E13178509897D74F4D9C9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "62612CD4DFC2E5D5C5850AEF58045202CA5DD55E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "6155E3D4651FDB95B426F2F0346E22419ED7AAD3",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "81F681D7E9185BAFBF075B99A261F8783F07D6B3",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "7E7FCFD73766C411B13B1FF91D6D819C7C0855B3",
+			"Assets": [
+				"/Game/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "A24196D9A66951A0781649509CE35CBAF2B1D893",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "59DAAAD93C3BC0FD80DE3B998E77BAC0210551B9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC9D5D98ACC1D8FB74FC613FA5F8ECA9B78A107",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Roof"
+			]
+		},
+		{
+			"ShaderMapHash": "40658ADCF13FF77316C5F6B3407AE99D5A5876DE",
+			"Assets": [
+				"/Game/FPWeapon/Materials/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "99588CDE31E163A1EF88545980E451ABB91C8E71",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Unique"
+			]
+		},
+		{
+			"ShaderMapHash": "650D7DE041CCF7077A3C28BACA9A4ECEEE34F208",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "9718EDE01EDC52EFE930F1EB89BBE9FEA0BD5431",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "15BBA3E1F861E332F812C923E9DF6B44EEC178F8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5FDFE17578BB549972384893A6907B32DAA84C",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "22F0F4E1360D67EBE111349D7F3DB48D59CCF1C1",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "63054FE27DD27766FF31FF52570E7F96FEB49628",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC8E5E27A09A461F40D390242525F51E1FB5F43",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AEB6DAE4D3868EA003FD0D435F8E752F3391EC12",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Beam_Doorway",
+				"/Game/Cyberpunk/Materials/Instances/MI_Beam_Fog_01",
+				"/Game/Cyberpunk/Materials/Instances/MI_Beam_Lantern"
+			]
+		},
+		{
+			"ShaderMapHash": "C71924E5184B232EEF5B83A14DCA09AEF5E1C41E",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_Hologramm_Select"
+			]
+		},
+		{
+			"ShaderMapHash": "90C6BAE55FB44B5D418E490AADE6DD63952398D1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A70599E782AEB1A3DDDE2F5F20D43340610641A7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F3E4BE8EB6D805FE196B389E739755D379B71F9",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Preview_PaintSteel"
+			]
+		},
+		{
+			"ShaderMapHash": "F89A61E91037AB78E8BF26F67ACD77458A3D2AA5",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "24FA9CEAC2D7495FCD1D058C99FA39B2815824FA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "159BBDEAFB9178FDEC783C915F4D4C0FAB49B742",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Maglev/Material/M_MaglevHaze"
+			]
+		},
+		{
+			"ShaderMapHash": "D4EE1BEB70990EBCFDD6166296AC72BD276D21AA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7F2459EB033A39EF7E0F13DF6591FE9055BAE0F0",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Glass_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "4F684AECE867A708B10C4DF9F86E292896C41EFB",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_China_Lantern"
+			]
+		},
+		{
+			"ShaderMapHash": "6436A0ECCD6D241D29B7972B694A5DC1E09A7CDE",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FFE0A1ED7810AD2C2C00EDB01563159A454E1318",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "7F6C03EFC94917633B36B1189D223851CDCBD84C",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0F3FD0EF7768A819F1DBB2EBFDEFB34641D6804F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AD1CEEF0860B8D929ACFBA79EDD3C4EAD3C14D4A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "019EA3F2CE65B80400C9ADC762FEB109A0B779A5",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "8A6DE0F2D0A65A1DF1230A20429AF8D7BC55B09D",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "3E761FF3C2B5024E53C2E6B777EC936767E74C7E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6822A4F3950E0FE0CC42D637B2703D0943D48C18",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage1",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage2",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage3",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage4",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage5",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage6",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage7",
+				"/Game/Cyberpunk/Materials/Decals/MI_Damage8"
+			]
+		},
+		{
+			"ShaderMapHash": "42BCB0F3627E4768ABFD26F0A9A87C633551BE53",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "1694D3F3527AE4D5BD8FFB537980FFE493F47B7C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "08D52DF6135454CD6EFFBFA6E8D5DDC4792B1E59",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_FlickerLight_Lamp1"
+			]
+		},
+		{
+			"ShaderMapHash": "6A2A73F6AA8265617C975F9D4761435CA9FBB8E1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BF76F6B5B44542C8ECF7494115EA9E53DA6614",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "12D079F64E873CF4725A449F3E9B7D1EC980D7F2",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "206CEEF95D10BC23B8B3B8AACF375A0149B6EDC3",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Glass_Kill"
+			]
+		},
+		{
+			"ShaderMapHash": "DBD9F7F9BB742FE9F0D219E0DA6C7826ECDE5BF2",
+			"Assets": [
+				"/Game/Cyberpunk/EpicContent/Effects/Materials/M_Elec_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F9079BFAD99D6A77B3CF08DDE944E017FB02BAD9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "5C78A7FB9E4B69E3E4EB5CE51E14AC4C46CF16B7",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "3C4DDDFB39B7CD4966B85581A1309EDDDAA43477",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "1C0E35FCCA03BE2B87E3AFA1148710557931793C",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Instances/MI_BridgeCorpus"
+			]
+		},
+		{
+			"ShaderMapHash": "258250FC9DB650B6A630E3FDD3355F33E0F76FFE",
+			"Assets": [
+				"/Game/Cyberpunk/Materials/Masters/M_Hologramm"
+			]
+		},
+		{
+			"ShaderMapHash": "98B411FD1BAE59E9DF6243CA387420931DEE96C8",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "C8268EFE530A11D78B48BC9545F0F6DC4EF5AFA9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4D2ED9FF2C769FCFB64509F08EDA891A575779B2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		}
+	]
+}
